@@ -1,0 +1,2 @@
+stage,model,cv_protocol,train_rows,validation_rows,parameters,elapsed_seconds,ap,roc_auc
+pilot,XGBoost Original,one fold of the predeclared 5-fold development split,182276,45569,"n_estimators=20,max_depth=3,learning_rate=0.1",1.4007019998971373,0.8418993356476604,0.9844518414180548

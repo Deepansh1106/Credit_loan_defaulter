@@ -1,0 +1,2 @@
+experiment,train_rows,validation_rows,elapsed_seconds,AP,ROC_AUC
+"pilot (20% development, one fold)",36455,9114,1.5018466669134796,0.6759367043164736,0.934549488898659
